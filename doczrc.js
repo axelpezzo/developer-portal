@@ -12,8 +12,12 @@ export default {
     { name: 'Deploy', menu: [] },
   ],
   menuDisplayName: {
+    //UI: 'User Interface',
+    //Main: 'Main Container',
   },
   groups: {
+    //'': [],
+    //API: ['Components', 'UI'],
   },
   apis: 'https://www.google.com',
   repository: 'https://github.com/',
