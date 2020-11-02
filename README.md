@@ -1,4 +1,4 @@
-nfoi# Developer Portal
+# Developer Portal
 This is a boilerplate in order to start a Developer Portal based on DoczJS and markdown files. The project provides a custom theme (in a shadowing mode, as Gatsby provides) in order to customize the Docz layout.
 
 ## Features
